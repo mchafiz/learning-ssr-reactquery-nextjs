@@ -26,7 +26,7 @@ const App = () => (
           textAlign="center"
           rounded="lg"
         >
-          <NextLink href="/crypto-market" passHref>
+          <NextLink href="/cryptocurrency-market" passHref>
             <Box
               boxShadow="xs"
               p="6"
